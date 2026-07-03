@@ -20,7 +20,15 @@ Built with Python, FastAPI, and Tailwind CSS.
 
 ## 🖥️ Screenshot
 
-> _Add your screenshot here after running the project._
+<img width="1267" height="702" alt="image" src="https://github.com/user-attachments/assets/0f988239-941b-4d71-8dea-31aa818fb496" />
+
+<img width="1382" height="766" alt="image" src="https://github.com/user-attachments/assets/8250a177-00d2-4556-a395-602cf61494ee" />
+
+<img width="1297" height="697" alt="F" src="https://github.com/user-attachments/assets/32193260-c92c-4242-bfb9-a66ffbe32168" />
+
+<img width="1121" height="665" alt="security_F" src="https://github.com/user-attachments/assets/c7ba6468-873b-4fb8-b99b-01d8d1434732" />
+
+<img width="1227" height="855" alt="Recom_F" src="https://github.com/user-attachments/assets/7f88e2a3-7c57-4f2f-b629-3b3ca6fef5e3" />
 
 ---
 
