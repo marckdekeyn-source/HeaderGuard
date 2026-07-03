@@ -92,7 +92,7 @@ web-security-header-checker/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/web-security-header-checker.git](https://github.com/marckdekeyn-source/HeaderGuard/
+git clone https://github.com/marckdekeyn-source/HeaderGuard/
 cd web-security-header-checker
 ```
 
